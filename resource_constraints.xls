@@ -1,0 +1,13 @@
+﻿Task ID,Resources,Constraint Type,Impact on Duration (days) weather,Seasonal Delays
+A,Row Material Availability,Steel,15,rainy
+B,Row Material Availability,Sand and Gravel,10,rainy/foggy
+C,Row Material Availability,Cement And Concrete ,20,rainy
+F,Energy Resources,Electricity Supply,7,foggy
+E,Energy Resources,Fuel for Construction ,1,foggy
+D,Row Material Availability,Steel,15,rainy
+G,Row Material Availability,Sand and Gravel,10,rainy/foggy
+I,Row Material Availability,Cement And Concrete ,20,rainy
+H,Energy Resources,Electricity Supply,7,foggy
+J,Energy Resources,Fuel for Construction ,1,foggy
+L,Row Material Availability,Sand and Gravel,10,rainy/foggy
+K,Row Material Availability,Cement And Concrete ,20,rainy
